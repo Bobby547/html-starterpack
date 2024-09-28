@@ -79,6 +79,10 @@ body {
     min-height: 100vh;
 }
 
+body:hover {
+    color: pink;
+}
+
 header {
     background: #007BFF;
     color: white;
@@ -93,7 +97,7 @@ button {
     border: none;
     border-radius: 50%;
     background-color: blue;
-    color: black;
+    color: pink;
 }
 
 button:hover {
